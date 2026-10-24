@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Semantic comparison of financial versions and ordered change bridges.
-- A Financial integration needs to reuse the capabilities of @x12i/financial-diff inside a larger application.
+- Explain amount and basis changes between two immutable financial versions.
+- Compare reordered account rows without treating row order as a financial difference.
 
 ## Links
 
