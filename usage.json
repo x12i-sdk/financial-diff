@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/financial-diff",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/financial-diff",
+  "usageRepository": "https://github.com/x12i-sdk/financial-diff",
+  "sourceRepository": "https://github.com/x12i/finanfix",
+  "sourceCommit": "8630e4c4f201deb35cd10c3790c9d5abdbce4633",
+  "sourcePackageDirectory": "packages/diff",
+  "example": {
+    "title": "Explain a change between two synthetic financial versions",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:18:29.534681+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "d65b77dc15dce0f2d4ee3a4e081929723d38dae1a80eee21a655af1ded0e689d",
+    "manifestSha256": "7d8308396b585f338db024bb04b6e7215c3824f26a3cd135c11c9c623a83857d"
+  }
+}
